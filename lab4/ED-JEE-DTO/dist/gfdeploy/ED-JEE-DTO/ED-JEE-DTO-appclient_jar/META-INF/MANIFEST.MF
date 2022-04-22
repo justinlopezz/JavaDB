@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 16.0.2+7-67 (Oracle Corporation)
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: edjee.MyuserAppClient
+Class-Path: ED-JEE-DTO-RI.jar lib/ED-JEE-DTO-RI.jar jakarta.jakartaee-
+ api-8.0.0.jar lib/jakarta.jakartaee-api-8.0.0.jar 
+
